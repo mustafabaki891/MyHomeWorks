@@ -1,2 +1,2 @@
 # MyHomeWorks
-Merhaba "MyHomeWorks" projesine ev ödevlerimi yüklüyorum eğer isterseniz inidirip sizde tekrar edip, istediğiniz gibi değişiklik yapabilirsiniz.
+Merhaba "MyHomeWorks" projesine ev ödevlerimi yüklüyorum eğer isterseniz indirip, tekrar edip, istediğiniz gibi değişiklik yapabilirsiniz.
